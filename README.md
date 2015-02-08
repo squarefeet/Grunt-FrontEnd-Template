@@ -16,7 +16,7 @@ It currently uses:
 * [grunt-contrib-clean](https://github.com/gruntjs/grunt-contrib-clean)
 * [grunt-contrib-connect](https://github.com/gruntjs/grunt-contrib-connect)
 
-Browserify is optional. If you aren't using Browserify in your project, just turn off the browserify#enabled setting in `./gruntConfig.js`
+Browserify is optional. If you aren't using Browserify in your project, just turn off the browserify#enabled setting in [`./gruntConfig.js`](https://github.com/squarefeet/Grunt-FrontEnd-Template/blob/master/gruntConfig.js)
 
 
 ### Why? ###
@@ -26,7 +26,7 @@ I'm lazy. Isn't that enough?
 ### How? ###
 * Clone this repo, and `cd` into the directory.
 * `npm install`
-* Alter [`./gruntConfig.js`]() to suit.
+* Alter [`./gruntConfig.js`](https://github.com/squarefeet/Grunt-FrontEnd-Template/blob/master/gruntConfig.js) to suit.
 * `grunt`
 * Start coding your project
 
